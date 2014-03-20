@@ -8,6 +8,10 @@
     "dependencies" : {
         "optimist" : "0.3.4"
     },
+    "repository" : {
+        "type" : "git",
+        "url" : "http://github.com/ramuuns/hsl2rgb"
+    },
     "author" : "Ramūns Usovs <ramuuns@enkurs.org>",
     "licence" : "BSD"
 }
