@@ -1,0 +1,13 @@
+{
+    "name" : "hsl2rgb",
+    "version" : "0.1.1",
+    "description" : "Convert hsl/hsla css colors to equivalent rgb/rgba colors",
+    "bin" : {
+        "hsl2rgb" : "./bin/hsl2rgb.js"
+    },
+    "dependencies" : {
+        "optimist" : "0.3.4"
+    },
+    "author" : "Ramūns Usovs <ramuuns@enkurs.org>",
+    "licence" : "BSD"
+}
